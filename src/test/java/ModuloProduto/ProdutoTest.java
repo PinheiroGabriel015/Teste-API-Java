@@ -9,7 +9,6 @@ import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 
 import static io.restassured.RestAssured.*;
-import static io.restassured.matcher.RestAssuredMatchers.*;
 import static org.hamcrest.Matchers.*;
 
 @DisplayName("Testes de API rest do módulo de Produto")
